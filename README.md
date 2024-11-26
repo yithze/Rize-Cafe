@@ -1,4 +1,4 @@
-
+ 
 ![rizelogin](https://github.com/user-attachments/assets/0eedb3a2-3b6d-4ec5-97dc-eb78e65a7c01)
 ![rizecashier](https://github.com/user-attachments/assets/c84f108f-17c7-49dd-b6b3-8b8abbcef04b)
 ![rizetransaction](https://github.com/user-attachments/assets/213332fd-01a3-47cc-8c36-8e8d79b106ec)
