@@ -1,4 +1,4 @@
- ![Rize-Dashboard](https://github.com/user-attachments/assets/84a76cda-d50d-4ab4-8c86-ee9d7f07c34e)
+![Rize-Login](https://github.com/user-attachments/assets/a8bb3f80-b032-4642-b670-cb771dc20f9a)
 ![Rize-Cashier](https://github.com/user-attachments/assets/a85fbc13-28b1-41fa-af6a-223f0a095181)
 ![Rize-Transaction](https://github.com/user-attachments/assets/eecc043b-ec40-4769-854c-d00b9b4add48)
 ![Rize-Invoice](https://github.com/user-attachments/assets/d5222005-012c-4e22-90c6-648dcf95c203)
