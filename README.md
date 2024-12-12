@@ -1,9 +1,11 @@
- 
-![rizelogin](https://github.com/user-attachments/assets/0eedb3a2-3b6d-4ec5-97dc-eb78e65a7c01)
-![rizecashier](https://github.com/user-attachments/assets/c84f108f-17c7-49dd-b6b3-8b8abbcef04b)
-![rizetransaction](https://github.com/user-attachments/assets/213332fd-01a3-47cc-8c36-8e8d79b106ec)
-![invoice](https://github.com/user-attachments/assets/274084a1-c89d-4c33-898c-5e3bb17c6c8d)
-![income](https://github.com/user-attachments/assets/05d609e4-b361-497d-9731-a5e8437ec49d)
+ ![Rize-Dashboard](https://github.com/user-attachments/assets/84a76cda-d50d-4ab4-8c86-ee9d7f07c34e)
+![Rize-Cashier](https://github.com/user-attachments/assets/a85fbc13-28b1-41fa-af6a-223f0a095181)
+![Rize-Transaction](https://github.com/user-attachments/assets/eecc043b-ec40-4769-854c-d00b9b4add48)
+![Rize-Invoice](https://github.com/user-attachments/assets/d5222005-012c-4e22-90c6-648dcf95c203)
+![Rize-Admin-Menu](https://github.com/user-attachments/assets/46281018-c67b-4318-bb4a-904d394b5c8f)
+![Rize-Admin-History-Transaction-And-Income](https://github.com/user-attachments/assets/9e2b818b-3dd6-45c9-afd3-54448f8b6169)
+
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
